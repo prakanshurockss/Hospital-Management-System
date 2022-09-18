@@ -1,11 +1,8 @@
-# Hospital-Management-API
-
 This is a hospital management API based on Django REST Framework. This API features three types of users - Doctor, Patient and Admin .
 For authenticating user, Django REST Framework custom token authentication is used. Installation guide, API endpoints and sample request/response are given below.
 
 ## Please follow the below steps to install this application-
 1. Install python 3.8 and pipenv.
-2. Clone this repository- https://github.com/shifat151/Hospital-Management-API.git
 3. Then go to the Hospital-Management-API-master directory: cd Hospital-Management-API-master
 4. Install dependencies: pipenv install (This will create a virtual environment and install all depedencies).
 5. Activate the virtual environment: pipenv shell
